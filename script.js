@@ -1,8 +1,8 @@
-var  cadena = "Volve a la escuela! Ah, No, cierto que mauri las cierra";
-var  cadena2 = "te mereces el cielo"
+
 
 document.getElementById('hablar').addEventListener("click",()=>{
     decir(document.getElementById("texto").value);
+    decir(document.getElementById("primer").value);
 
 
 });
