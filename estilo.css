@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #ededed;
+     background-image: radial-gradient(circle at 0 0, #5DFD71, #FF9700);
 }
 
 div {
@@ -27,3 +27,4 @@ input {
 input[type="button"] {
     width: 15%;
 }
+
