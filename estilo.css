@@ -29,4 +29,29 @@ input[type="button"] {
     width: 15%;
 }
 
+.evita {
+    width: 40%;
+    margin: auto;
+    padding: 10px;
+    border-radius: 5%;
+    display: flex;
 
+}
+
+@media screen and (min-width:360px) {
+    input {
+    padding: 9px;
+    font-size: 28px;
+    border: solid 1px #aaa;
+    width: 80%;
+    }
+
+    input[type="button"] {
+    width: 15%;
+}
+
+
+
+
+
+}
