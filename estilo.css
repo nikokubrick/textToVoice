@@ -30,9 +30,9 @@ input[type="button"] {
 }
 
 .evita {
-    width: 40%;
+    width: 35%;
     margin: auto;
-    padding: 10px;
+    padding: 5px;
     border-radius: 5%;
     display: flex;
 
@@ -41,7 +41,7 @@ input[type="button"] {
 @media screen and (min-width:360px) {
     input {
     padding: 9px;
-    font-size: 28px;
+    font-size: 20px;
     border: solid 1px #aaa;
     width: 80%;
     }
