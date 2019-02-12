@@ -2,6 +2,7 @@
     padding: 0px;
     margin: 0px;
     font-family: cursive;
+
 }
 
 body {
@@ -28,6 +29,4 @@ input[type="button"] {
     width: 15%;
 }
 
-.escondido {
-    display: none;
-}
+
