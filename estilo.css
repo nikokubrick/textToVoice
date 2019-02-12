@@ -41,6 +41,34 @@ input[type="button"] {
 @media screen and (min-width:360px) {
     input {
     padding: 9px;
+    font-size: 10px;
+    border: solid 1px #aaa;
+        font-family: monospace;
+        font-weight: bold;
+    width: 100%;
+    }
+
+    input[type="button"] {
+    width: 55%;
+}
+
+}
+@media screen and (min-width:500px) {
+    input {
+    padding: 9px;
+    font-size: 15px;
+    border: solid 1px #aaa;
+    width: 100%;
+    }
+
+    input[type="button"] {
+    width: 55%;
+}
+
+}
+@media screen and (min-width:1024px) {
+    input {
+    padding: 9px;
     font-size: 20px;
     border: solid 1px #aaa;
     width: 80%;
