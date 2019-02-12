@@ -15,6 +15,6 @@ document.getElementById('hablarr').addEventListener("click",()=>{
 
 
 function decir(texto){
-    speechSynthesis.speak(new SpeechSynthesisUtterance(texto));
+    speechSynthesis.speak(new SpeechSynthesisUtterance("gato"+texto));
 
 }
